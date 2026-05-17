@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../config"
+		},
+		{
+			"path": "../middleware"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "."
+		}
+	]
+}
